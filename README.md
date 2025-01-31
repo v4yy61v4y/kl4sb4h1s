@@ -10,4 +10,4 @@
 <p>Sektörün en güvenilir sitelerinde şansınızı deneyin ve kazanın!</p>
 
 <h3>Klasbahis - Klasbahis - Klasbahis</h3>
-<p>Hemen giriş yapın, oyun keyfini doruklarda yaşayın!</p>
+<p>Hemen giriş yapın, oyun keyfini doruklarda yaşayın.!</p>
